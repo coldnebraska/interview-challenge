@@ -1,0 +1,4 @@
+RequestURL:http://localhost:3001/ RequestMethod:GET StatusCode:200 RemoteAddress:[::1]:3001 ReferrerPolicy:strict-origin-when-cross-origin
+RequestURL:http://google.com/ RequestMethod:POST StatusCode:200 RemoteAddress:[::1]:123 ReferrerPolicy:strict-origin-when-cross-origin
+RequestURL:http://github.com/coldnebraska/repositories RequestMethod:OPTIONS StatusCode:200 RemoteAddress:[::1]:6381 ReferrerPolicy:strict-origin-when-cross-origin
+RequestURL:http://gamehunter.com/project RequestMethod:GET StatusCode:200 RemoteAddress:[::1]:65137 ReferrerPolicy:strict-origin-when-cross-origin
